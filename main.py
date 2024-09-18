@@ -13,9 +13,9 @@ logging.basicConfig(level=logging.INFO)
 
 nandhaBot = Client(
 name="d-paste",
-api_id=13257951,
-api_hash="d8ea642aedb736d40035bc05f0cfd477",
-bot_token="7032086726:AAGSc7L17A091QkGIQrBoKnG8CiV7E9qtKE"
+api_id=123456,
+api_hash="abcd",
+bot_token="abcd"
 )
 
 
